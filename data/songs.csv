@@ -1,11 +1,21 @@
-id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
-1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18
-2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71
-3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10
-4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86
-5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05
-6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92
-7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89
-8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
-9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
-10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness,popularity,release_decade,mood_tag,instrumentalness,liveness
+1,Sunrise City,Neon Echo,pop,happy,0.82,118,0.84,0.79,0.18,82,2020,uplifting,0.04,0.12
+2,Midnight Coding,LoRoom,lofi,chill,0.42,78,0.56,0.62,0.71,61,2020,dreamy,0.45,0.08
+3,Storm Runner,Voltline,rock,intense,0.91,152,0.48,0.66,0.10,74,2010,aggressive,0.12,0.20
+4,Library Rain,Paper Lanterns,lofi,chill,0.35,72,0.60,0.58,0.86,55,2020,dreamy,0.62,0.05
+5,Gym Hero,Max Pulse,pop,intense,0.93,132,0.77,0.88,0.05,90,2020,euphoric,0.02,0.15
+6,Spacewalk Thoughts,Orbit Bloom,ambient,chill,0.28,60,0.65,0.41,0.92,48,2010,nostalgic,0.78,0.06
+7,Coffee Shop Stories,Slow Stereo,jazz,relaxed,0.37,90,0.71,0.54,0.89,52,2000,nostalgic,0.55,0.32
+8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22,67,2010,melancholy,0.30,0.10
+9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78,58,2020,focused-deep,0.70,0.07
+10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35,71,2020,uplifting,0.08,0.18
+11,Heartbreak Highway,Dusty Roads,country,sad,0.44,96,0.32,0.55,0.74,64,2010,melancholy,0.20,0.42
+12,Neon Frequency,Bass Dept,hip-hop,energetic,0.87,105,0.72,0.91,0.08,88,2020,aggressive,0.05,0.12
+13,Moonlight Sonata Remix,Classical Nova,classical,calm,0.22,66,0.78,0.30,0.96,43,2000,nostalgic,0.95,0.25
+14,Iron Curtain,Wraith Protocol,metal,intense,0.97,180,0.21,0.58,0.04,56,2010,aggressive,0.15,0.28
+15,Velvet Nights,SoulSpark,r&b,romantic,0.55,88,0.76,0.70,0.48,79,2020,romantic,0.10,0.14
+16,Old Oak Tree,The Wanderers,folk,nostalgic,0.31,104,0.68,0.45,0.90,45,2000,nostalgic,0.40,0.55
+17,Sunset Riddim,Island Vibe,reggae,chill,0.58,82,0.83,0.76,0.52,62,2010,uplifting,0.18,0.35
+18,Euphoria Drop,Circuit Rush,edm,euphoric,0.96,140,0.80,0.95,0.03,92,2020,euphoric,0.60,0.08
+19,Broken Clocks,Ember Signal,indie,melancholy,0.48,112,0.38,0.52,0.61,66,2010,melancholy,0.22,0.16
+20,Golden Afternoon,Slow Stereo,jazz,happy,0.46,94,0.87,0.64,0.82,53,2000,uplifting,0.48,0.38
